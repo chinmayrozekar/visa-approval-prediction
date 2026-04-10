@@ -44,7 +44,7 @@ Use XGBoost variant if the business cost of a missed Denied case outweighs false
 Python · Pandas · NumPy · Scikit-learn · XGBoost · imbalanced-learn (SMOTE) · Matplotlib · Seaborn · Jupyter Notebook
 
 ## Code
-Notebook: [`ChinmayRozekar_MachineLearning_Project3_EasyVisa_Full_Code.ipynb`](ChinmayRozekar_MachineLearning_Project3_EasyVisa_Full_Code.ipynb)
+Notebook: [`EasyVisa_Approval_Prediction.ipynb`](EasyVisa_Approval_Prediction.ipynb)
 
 ---
 *Author: Chinmay Rozekar*
